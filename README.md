@@ -1,4 +1,4 @@
-# Project Name
+# Simple Calculator
 
 Very simple calculator app with basic functions, addition, subtraction, multiplication and division.
 ## Table of Contents
